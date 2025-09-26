@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Han Jie 👋
 
-<!--
-**HanJie-0523/HanJie-0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Engineer • Tech Enthusiast • Creative Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I turn complex problems into elegant, high-performance digital experiences, from robust backends to pixel-perfect frontends.
+
+- 📍 Based in **Penang, Malaysia**
+- 💻 Focused on the **Laravel, React & Vue** ecosystems
+- ⚡ Fun fact: My passions are a mix of code, crypto, coffee, and basketball.
+
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=react,vue,js,laravel,php,tailwind,mysql,docker,git)
+
+---
+
+## 🎯 Featured Projects
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🚀 Portfolio | A personal portfolio with smooth animations and a clean UI to highlight my work. | Next · Tailwind | [Live](https://hanjiedev.com) |
+| 💡 Onlin Shoe Store | A full-stack e-commerce platform with product, cart, and user management features. | Blade · Laravel · Bootstrap | [Code](https://github.com/HanJie-0523/online-shoe-store) |
+
+---
+
+## 🤝 Let’s Connect
+
+🌐 [Portfolio](https://hanjiedev.com) ·
+💼 [LinkedIn](https://www.linkedin.com/in/han-jie-ong-0174ba260) ·
+📧 [Email](mailto:onghanjie0523@gmail.com)
