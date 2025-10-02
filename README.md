@@ -16,7 +16,7 @@ I turn complex problems into elegant, high-performance digital experiences, from
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,vue,js,laravel,php,tailwind,mysql,docker,git)
+![My Skills](https://skillicons.dev/icons?i=react,vue,js,laravel,php,tailwind,mysql,git)
 
 ---
 
