@@ -25,6 +25,7 @@ I turn complex problems into elegant, high-performance digital experiences, from
 |---------|-------------|------------|-------|
 | 🚀 Portfolio | A personal portfolio with smooth animations and a clean UI to highlight my work. | Next · Tailwind | [Live](https://hanjiedev.com) |
 | 💡 Onlin Shoe Store | A full-stack e-commerce platform with product, cart, and user management features. | Blade · Laravel · Bootstrap | [Code](https://github.com/HanJie-0523/online-shoe-store) |
+| 📦 Data Shuttle | A Laravel + React application for background CSV file processing with UTF-8 cleanup, real-time updates, and duplicate prevention. | Laravel · React · Inertia.js · Tailwind CSS · MySQL | [Code](https://github.com/HanJie-0523/data-shuttle) |
 
 ---
 
