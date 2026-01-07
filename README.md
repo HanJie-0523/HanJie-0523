@@ -11,12 +11,14 @@ I turn complex problems into elegant, high-performance digital experiences, from
 - 📍 Based in **Penang, Malaysia**
 - 💻 Focused on the **Laravel, React & Vue** ecosystems
 - ⚡ Fun fact: My passions are a mix of code, crypto, coffee, and basketball.
-- 🔎 Currently exploring: **Golang**
+  
 ---
 
 ## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=react,vue,js,laravel,php,tailwind,mysql,git)
+
+🔎 Currently exploring: **Golang**
 
 ---
 
