@@ -18,7 +18,7 @@ I turn complex problems into elegant, high-performance digital experiences, from
 
 ![My Skills](https://skillicons.dev/icons?i=react,vue,js,laravel,php,tailwind,mysql,git)
 
-🔎 Currently exploring: **Golang**
+🔎 Currently exploring: Web3
 
 ---
 
